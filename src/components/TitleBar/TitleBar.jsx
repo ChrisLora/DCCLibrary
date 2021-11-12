@@ -12,3 +12,5 @@ function TitleBar(props){
         </div>
     )
 }
+
+export default TitleBar
